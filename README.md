@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wibichamim
 - 👀 I’m interested in web and mobile programming
-- 🌱 I’m currently learning Javascript & PHP
+- 🌱 I’m currently learning PHP & Native android programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
