@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @wibichamim
 - 👀 I’m interested in web and mobile programming
-- 🌱 I’m currently learning PHP & Native android programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Native android programming & Flutter
+- 📫 Keep in touch wibi.chamim.m@gmail.com
 
 <!---
 wibichamim/wibichamim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
