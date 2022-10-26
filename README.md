@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wibichamim
-- 👀 I’m interested in web and mobile programming
+- 👀 I’m interested in mobile programming
 - 🌱 I’m currently learning Native android programming & Flutter
 - 📫 Keep in touch wibi.chamim.m@gmail.com
 
